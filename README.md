@@ -1,11 +1,7 @@
 <h1 align="center">Hi fellow coders, I am Pratiksha Wadibhasme</h1>
 <h3 align="center">I love simplifying things like Python Does 😉</h3>
 
-- 🔭 I’m currently working on **Java Akka Framework**
-
-- 🌱 Life Mantra: **Happily conquer my goals🌱**
-
-- ⚡ Fun Fact: **Daily Streak == Problem Solving**
+- 🔭 I’m currently a Software Engineer at **JP Morgan Chase & Co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
