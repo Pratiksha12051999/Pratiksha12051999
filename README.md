@@ -1,8 +1,11 @@
 <h1 align="center">Hi fellow coders, I am Pratiksha Wadibhasme</h1>
-<h3 align="center">I love simplifying things like Python Does 😉</h3>
 
-- 🔭 I’m currently a Software Engineer at **JP Morgan Chase & Co**
-
+- 🔭 👋 I am Software Developer who embodies a mix of technical prowess, continuous learning, and execution excellence. 
+• Currently, I am pursuing my **Master’s in Computer Science at Arizona State University**. I am also working as an **Associate Cloud Developer with ASU's AI and Cloud Innovation Center in collaboration with Amazon**.
+• Previously, I worked as a **Software Engineer at JP Morgan Chase & Co.**, where I played a key role in developing a very **robust scalable cloud infrastructure using AWS for the NextGen payments platform of JP Morgan, using technologies like AWS Cloud, Terraform, and Java, which processes close to 10 trillion transactions globally each day.**
+• I am an **AWS certified Cloud Practitioner and HashiCorp Certified Terraform Associate.**
+• I am proficient in **Python, AWS, Terraform, JavaScript, Java, SQL, EKS, Web and App Development, Machine Learning, Laravel and React.**
+• I have won multiple large-scale hackathons, including the **AWS Deepracer ML-based Hackathon and Nomura KakushIN National Hackathon.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pratiksha_1205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratiksha_1205" height="30" width="40" /></a>
