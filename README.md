@@ -3,9 +3,9 @@
 - 👋 I am a Software Developer who embodies a mix of technical prowess, continuous learning, and execution excellence.
 
 - Currently, I am pursuing my **Master’s in Computer Science at Arizona State University**.  
-  I am also working as an **Associate Cloud Developer with ASU's AI and Cloud Innovation Center in collaboration with Amazon**.
+  I am also working as an **Associate Cloud Developer with Amazon x ASU's AI and Cloud Innovation Center**.
 
-- Previously, I worked as a **Software Engineer at JP Morgan Chase & Co.**, where I played a key role in developing a very **robust scalable cloud infrastructure using AWS for the NextGen payments platform of JP Morgan, using technologies like AWS Cloud, Terraform, and Java, which processes close to 10 trillion transactions globally each day.**
+- Previously, I worked as a **Software Engineer at JP Morgan Chase & Co.**, where I played a key role in developing a very **robust scalable cloud infrastructure using AWS for the NextGen Modern payments platform of JP Morgan, using technologies like AWS Cloud, Terraform, and Java, which processes close to 10 trillion transactions globally each day.**
 
 - I am an **AWS Certified Cloud Practitioner and HashiCorp Certified Terraform Associate.**
 
