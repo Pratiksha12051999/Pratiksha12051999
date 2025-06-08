@@ -1,4 +1,4 @@
-<h1 align="center">Hi fellow coders, I am Pratiksha Wadibhasme</h1>
+<h1 align="center">Hello, I am Pratiksha Wadibhasme</h1>
 
 - 👋 I am a Software Developer who embodies a mix of technical prowess, continuous learning, and execution excellence.
 
