@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pratiksha Wadibhasme 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F79F1F&center=true&vCenter=true&width=435&lines=Software+Developer;Cloud+Enthusiast;Hackathon+Winner;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F79F1F&center=true&vCenter=true&width=435&lines=Software+Developer;Cloud+Engineer;3x+Hackathon+Winner;GenAI+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
