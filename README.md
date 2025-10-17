@@ -9,9 +9,9 @@
 
 - I am an **AWS Certified Cloud Practitioner and HashiCorp Certified Terraform Associate.**
 
-- I am proficient in **Python, AWS, Terraform, JavaScript, Java, SQL, EKS, Web and App Development, Flask, Machine Learning, Laravel, Django, Akka and React.**
+- I am proficient in **Python, AWS, Terraform, JavaScript, Java, Springboot, SQL, EKS, Web and App Development, Flask, Machine Learning, Laravel, Django, Akka and React.**
 
-- I have won multiple large-scale hackathons, including the **AWS Deepracer ML-based Hackathon and Nomura KakushIN National Hackathon.**
+- I have won multiple large-scale hackathons, including the ** TIAA x ASU Fund the Spark Challenge, AWS Deepracer Machine Learning Hackathon and Nomura KakushIN National Hackathon.**
 
 <h3 align="left">Connect with me:
   <a href="mailto:pratikshawadibhasme@gmail.com" target="_blank">
