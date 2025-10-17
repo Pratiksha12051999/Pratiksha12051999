@@ -12,7 +12,7 @@
 
 - I am proficient in **Python, AWS, Terraform, JavaScript, Java, Springboot, React, Node, SQL, EKS, Web and App Development, Mirco Services, Flask, Machine Learning, Laravel, Django and Akka.**
 
-- I have won multiple large-scale hackathons, including the ** TIAA x ASU Fund the Spark Challenge, AWS Deepracer Machine Learning Hackathon and Nomura KakushIN National Hackathon.**
+- I have won multiple large-scale hackathons, including the **TIAA x ASU Fund the Spark Challenge, AWS Deepracer Machine Learning Hackathon and Nomura KakushIN National Hackathon.**
 
 <h3 align="left">Connect with me:
   <a href="mailto:pratikshawadibhasme@gmail.com" target="_blank">
