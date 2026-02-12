@@ -11,7 +11,7 @@
 - Software Developer passionate about **cloud, AI, and scalable systems**.
 - Pursuing **Master’s in Computer Science at Arizona State University**.
 - **Associate Cloud Developer** at Amazon x ASU's AI and Cloud Innovation Center.
-- Former **Software Engineer at JP Morgan Chase & Co.** —- built robust AWS cloud infrastructure for the NextGen Modern Payments platform, processing $10T+ transactions daily.
+- Former **Software Engineer at JP Morgan Chase & Co.** - built robust AWS cloud infrastructure for the NextGen Modern Payments platform, processing $10T+ transactions daily.
 - **AWS Certified Cloud Practitioner** & **HashiCorp Certified Terraform Associate**.
 
 ---
